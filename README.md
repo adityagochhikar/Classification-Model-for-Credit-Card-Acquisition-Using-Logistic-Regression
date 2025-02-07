@@ -90,7 +90,7 @@ Cutoff	Sensitivity	Specificity	Accuracy
 
 0.1	89%	51%	59%
 
-0.2	75%	73%	73%
+# 0.2	75%	73%	73%
 
 0.3	61%	85%	80%
 
